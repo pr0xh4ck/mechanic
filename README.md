@@ -1,4 +1,1 @@
-Your next-generation smart mechanic workshop
-
-
-![Logo](mechanig.PNG)
+![Logo](https://github.com/pr0xh4ck/mechanic/blob/main/mechanicg.PNG)
