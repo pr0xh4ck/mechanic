@@ -1,4 +1,4 @@
 Your next-generation smart mechanic workshop
 
 
-![Logo](/mechanig.PNG)
+![Logo](mechanig.PNG)
